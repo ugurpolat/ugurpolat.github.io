@@ -19,3 +19,14 @@ p {
   letter-spacing: -1px;
   font-weight: bold;
 }
+
+@media (max-width: 425px) {
+  .hello-container {
+    flex-direction: column;
+  }
+  body {
+    padding: 0;
+    width: 100%;
+    margin: 0 auto;
+  }
+}
