@@ -3,11 +3,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 40px;
+  gap: 20px;
 }
 
 .my-photo {
-  width: 500px;
+  width: 100%;
+  max-width: 900px;
+  height: auto;
   border-radius: 10px;
 }
 
