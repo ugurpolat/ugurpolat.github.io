@@ -1,0 +1,32 @@
+.aboutme-container {
+}
+
+.grid-3-col {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 40px;
+}
+
+.about-text {
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+h2 {
+  font-size: 30px;
+  letter-spacing: -0.5;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  margin-bottom: 3%;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}

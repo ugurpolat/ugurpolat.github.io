@@ -1,0 +1,19 @@
+.hello-container {
+  margin-top: 4%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.my-photo {
+  width: 500px;
+  border-radius: 10px;
+}
+
+p {
+  font-size: 44px;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
