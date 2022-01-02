@@ -27,7 +27,7 @@ export default class AboutMe extends Component {
               <li>
                 Twitter:{" "}
                 <a href="https://twitter.com/ugurpoo" target="_blank">
-                  @ugurpoo
+                  @ugrplt
                 </a>
               </li>
               <li>
