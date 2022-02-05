@@ -1,6 +1,6 @@
-.grid-3-col {
+.grid-2-col {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 70% 30%;
   column-gap: 40px;
 }
 

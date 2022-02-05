@@ -1,11 +1,12 @@
 import React, { Component } from "react";
 import "./AboutMe.css";
+
 export default class AboutMe extends Component {
   render() {
     return (
       <div className="aboutme-container">
         <h2>About me</h2>
-        <div className="grid-3-col">
+        <div className="grid-2-col">
           <div>
             <p className="about-text">
               If you want you can call me a frontend developer. I have a passion
@@ -13,15 +14,13 @@ export default class AboutMe extends Component {
               consider quite an enjoyable and multidisciplinary area that I
               would really like to be involved in.
             </p>
-          </div>
-          <div>
+
             <p className="about-text">
               Technologies I use while making my projects HTML, CSS, JS,
               React.js.
             </p>
           </div>
 
-          {/* I graduated from Kocaeli University with a BSc in Computer Engineering. */}
           <div>
             <ul>
               <li>

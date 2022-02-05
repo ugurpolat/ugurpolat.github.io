@@ -8,7 +8,16 @@
 }
 
 .project {
-  background-color: burlywood;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.project__name {
+  margin: 0;
+}
+
+.project__img {
+  width: 100%;
   border-radius: 15px;
-  height: 150px;
 }
